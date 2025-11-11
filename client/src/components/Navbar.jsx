@@ -8,10 +8,10 @@ function Navbar() {
       <Link className='hover:text-gray-500' to="/login">Login</Link>
       <Link className='hover:text-gray-500' to="/signup">SignUP</Link>
       <Link className='hover:text-gray-500' to="/">About</Link>
-      
+    
       
     </div>
   )
 }
 
-export default Navbar
+export default Navbar  

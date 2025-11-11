@@ -18,7 +18,7 @@ export default function Signup() {
   };
 
   return (
-    <div className="signup-container">
+    <div className=" border justi"  >
       <h2>Signup</h2>
       <form onSubmit={handleSubmit}>
         <input name="name" placeholder="Name" onChange={handleChange} />

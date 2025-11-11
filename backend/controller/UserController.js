@@ -1,5 +1,5 @@
 
-import {usermodel} from '../model/user.js'
+import {usermodel} from '../model/UserModel.js'
 import { generateToken } from '../utils/generate_token.js'
 import bcrypt from "bcryptjs"
 
